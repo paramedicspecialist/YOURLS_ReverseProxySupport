@@ -27,7 +27,7 @@ Currently supported headers for real IP detection include:
 ## Installation
 
 1.  **Download:** Fetch or download this plugin's repository.
-2.  **Copy:** Copy the plugin folder (e.g., `reverseproxy`) into your YOURLS plugins directory: `YOURLS_ABSPATH/user/plugins/`, where `YOURLS_ABSPATH` is the root of your YOURLS installation.
+2.  **Copy:** Copy the plugin folder (e.g., `reverse-proxy-support`) into your YOURLS plugins directory: `YOURLS_ABSPATH/user/plugins/`, where `YOURLS_ABSPATH` is the root of your YOURLS installation.
 3.  **Activate:** Log into your YOURLS administration interface and activate the "Reverse Proxy Support" plugin.
 
 ---
