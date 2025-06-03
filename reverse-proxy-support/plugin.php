@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Reverse Proxy Support
-Plugin URI: https://github.com/paramedicspecialist/yourls_reverseproxy_support/
+Plugin URI: https://github.com/paramedicspecialist/YOURLS_ReverseProxySupport
 Description: Fixes and anonymizes incoming IPs from reverse proxies. Original plugin by Diftraku: https://github.com/Diftraku/yourls_cloudflare/
-Version: 1.0.1
+Version: 1.0.2
 Author: Darkhorse
 Author URI: https://devenprasad.ca/
 */
